@@ -119,11 +119,10 @@ YTU-bbg_finish_project/
 ## 👤 Author
 
 **Abdullah Yaren**  
-Computer Engineering Student — Yıldız Technical University  
-Student No: 24011108
+Computer Engineering Student — Yıldız Technical University
 
 ---
 
 ## 📄 License
 
-This project was developed for educational purposes as part of the BBG (Introduction to Computer Science) course at Yıldız Technical University.
+This project was developed for educational purposes as part of the BBG (Introduction to Computer Science - Bilgisayar Bilimlerine Giris) course at Yıldız Technical University.
